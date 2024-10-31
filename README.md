@@ -17,5 +17,4 @@ A collection of interactive and visually appealing CSS animations designed for e
 ## 🔧 Technologies Used
 - **HTML5**
 - **CSS3 (Animations, Transitions)**
-- **JavaScript** # css-animation-showcase
-Showcase of CSS Animations for UI Development
+- **JavaScript (Optional)**
